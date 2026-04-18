@@ -47,24 +47,23 @@ If you are a fellow student or an aspiring engineer, feel free to fork these pro
 **Note:** Since I am an amateur student, please double-check schematics before ordering your own PCBs. Let's learn together!
 
 ---
+## 🛠️ PinFlow Hub: Recommended Desk Setup
+To build professional-grade PCBs like this, I recommend the following "Pro-Student" lab setup. These tools are selected for their precision in handling tiny SMD components.
+
+| Category | Essential Tool | Link | Purpose |
+| :--- | :--- | :--- | :--- |
+| **🔌 Soldering** | **Precision Solder (0.6mm)** | [Buy Here 🛒](https://amzn.to/3OcU3Cd) | Perfect thickness for small 0805 pads. |
+| | **Brass Tip Cleaner** | [Buy Here 🛒](https://amzn.to/48uirpR) | Cleans the iron tip without cooling it down. |
+| | **Solder Wick (Braid)** | [Buy Here 🛒](https://amzn.to/4cuoMm3) | Essential for fixing solder bridges. |
+| | **Helping Hands** | [Buy Here 🛒](https://amzn.to/42eUvmv) | Steady "Third Hand" with magnification. |
+| **📐 Bench & Safety**| **Green Grid Mat** | [Buy Here 🛒](https://amzn.to/3W0lYAn) | Protects desk; aids in component alignment. |
+| | **Precision Tweezers** | [Buy Here 🛒](https://amzn.to/3X7W6aL) | Mandatory for placing SMD components. |
+| | **Micro Flush Cutters** | [Buy Here 🛒](https://amzn.to/3Z0Z5Xy) | Cleanly trims legs for a professional finish. |
+| **📟 Logic & Test** | **Budget Multimeter** | [Buy Here 🛒](https://amzn.to/41COznj) | Best for basic continuity "Beep" tests. |
+| | **Pro Multimeter** | [Buy Here 🛒](https://amzn.to/4tjIicd) | High-precision debugging for serious designers. |
+| | **N-Channel MOSFETs** | [Buy Here 🛒](https://amzn.to/4teYcEI) | Logic-level switching for "No-Code" projects. |
 
 ---
-
-## 🛠️ PinFlow Hub: Recommended Lab Setup
-I’ve curated this list of tools to help you transition from breadboards to professional PCBs. These are the exact specs used for the **TouchCard** project.
-
-### 🔌 Soldering & Assembly
-| Item | Link | Why I recommend it? |
-| :--- | :--- | :--- |
-| **Soldering Kit** | [View on Amazon 🛒](https://amzn.to/3ObJ5gf) | Temperature control is a MUST for 0805 SMD parts. |
-| **N-MOSFET Pack** | [View on Amazon 🛒](https://amzn.to/4teYcEI) | High-speed BSS138 equivalents for silent switching. |
-
-### ⚡ Measurement & Debugging
-| Tool | Link | Best for... |
-| :--- | :--- | :--- |
-| **Budget Multimeter** | [View on Amazon 🛒](https://amzn.to/41COznj) | **Beginners:** Essential for continuity & battery checks. |
-| **Pro Multimeter** | [View on Amazon 🛒](https://amzn.to/4tjIicd) | **Advanced:** High precision and faster auto-ranging. |
-
 > *Disclaimer: These are affiliate links. Using them supports PinFlow Hub in developing more free open-source hardware!* 🚀
 ---
 *MIT License © 2026 PinFlow Hub*
