@@ -47,4 +47,13 @@ If you are a fellow student or an aspiring engineer, feel free to fork these pro
 **Note:** Since I am an amateur student, please double-check schematics before ordering your own PCBs. Let's learn together!
 
 ---
+
+## 🛠️ Recommended Tools & Components
+To build this project, I recommend using the following tools and parts that I personally use in my lab:
+
+* **N-Channel MOSFETs (BSS138/Similar):** [Get the MOSFETs here](https://amzn.to/4teYcEI) — High-speed, logic-level switching.
+* **Professional Soldering Kit:** [Get the Soldering Kit here](https://amzn.to/3ObJ5gf) — Includes fine tips and temperature control essential for SMD 0805 work.
+
+*Note: As an Amazon Associate, I earn from qualifying purchases. This helps support the PinFlow Hub project!*
+---
 *MIT License © 2026 PinFlow Hub*
