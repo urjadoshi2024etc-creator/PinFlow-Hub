@@ -48,12 +48,23 @@ If you are a fellow student or an aspiring engineer, feel free to fork these pro
 
 ---
 
-## 🛠️ Recommended Tools & Components
-To build this project, I recommend using the following tools and parts that I personally use in my lab:
+---
 
-* **N-Channel MOSFETs (BSS138/Similar):** [Get the MOSFETs here](https://amzn.to/4teYcEI) — High-speed, logic-level switching.
-* **Professional Soldering Kit:** [Get the Soldering Kit here](https://amzn.to/3ObJ5gf) — Includes fine tips and temperature control essential for SMD 0805 work.
+## 🛠️ PinFlow Hub: Recommended Lab Setup
+I’ve curated this list of tools to help you transition from breadboards to professional PCBs. These are the exact specs used for the **TouchCard** project.
 
-*Note: As an Amazon Associate, I earn from qualifying purchases. This helps support the PinFlow Hub project!*
+### 🔌 Soldering & Assembly
+| Item | Link | Why I recommend it? |
+| :--- | :--- | :--- |
+| **Soldering Kit** | [View on Amazon 🛒](https://amzn.to/3ObJ5gf) | Temperature control is a MUST for 0805 SMD parts. |
+| **N-MOSFET Pack** | [View on Amazon 🛒](https://amzn.to/4teYcEI) | High-speed BSS138 equivalents for silent switching. |
+
+### ⚡ Measurement & Debugging
+| Tool | Link | Best for... |
+| :--- | :--- | :--- |
+| **Budget Multimeter** | [View on Amazon 🛒](https://amzn.to/41COznj) | **Beginners:** Essential for continuity & battery checks. |
+| **Pro Multimeter** | [View on Amazon 🛒](https://amzn.to/4tjIicd) | **Advanced:** High precision and faster auto-ranging. |
+
+> *Disclaimer: These are affiliate links. Using them supports PinFlow Hub in developing more free open-source hardware!* 🚀
 ---
 *MIT License © 2026 PinFlow Hub*
