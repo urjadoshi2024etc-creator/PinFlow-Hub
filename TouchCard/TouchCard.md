@@ -8,9 +8,13 @@
 </table>
 
 ## 🎯 Project Objective
-The core objective of this project was to transition from theoretical circuit design to a high-density, professional SMD hardware product. 
+**The Core Objective:** To transition from theoretical circuit design to a high-density, professional SMD hardware product that is as light as a credit card but features a high-speed reactive interface.
 
-**The Idea:** Most student interfaces rely on bulky mechanical switches. I designed this "Credit Card" form factor interface that uses capacitive sensing to trigger a high-speed MOSFET switch. It serves as a standalone demonstrator or a modular input device for larger engineering systems.
+**The Idea:** This is a **Glowing Card** that reacts instantly when touched by the user. By integrating capacitive sensing with a specialized driver circuit, I created a modular input device that provides immediate visual feedback through a vibrant LED array.
+
+**The Creative Desire:** Driven by a fascination with "Cute & Cool" design, I treated the PCB as a canvas. I envisioned a customized piece of hardware featuring a **Chibi character** fascinated by the glowing LEDs, proving that professional engineering can be both technically advanced and aesthetically expressive.
+
+**The Technical Exploration:** To achieve this ultra-thin form factor, I explored the world of Surface Mount Devices (SMDs). This journey involved mastering the **BSS138 N-Channel MOSFET** for silent switching and integrating **0805 footprints** to replace bulky mechanical parts with a modern, capacitive system.
 
 ---
 
