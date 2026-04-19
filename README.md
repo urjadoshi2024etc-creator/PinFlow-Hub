@@ -48,7 +48,7 @@ If you are a fellow student or an aspiring engineer, feel free to fork these pro
 
 ---
 ## 🛠️ PinFlow Hub: Recommended Desk Setup
-To build professional-grade PCBs like this, I recommend the following "Pro-Student" lab setup. These tools are selected for their precision in handling tiny SMD components.
+To build professional-grade PCBs like this, I recommend the following "Pro-Student" lab setup. These tools are selected for their precision in handling tiny SMD components and artistic PCB work.
 
 | Category | Essential Tool | Link | Purpose |
 | :--- | :--- | :--- | :--- |
@@ -56,7 +56,9 @@ To build professional-grade PCBs like this, I recommend the following "Pro-Stude
 | | **Brass Tip Cleaner** | [Buy Here 🛒](https://amzn.to/48uirpR) | Cleans the iron tip without cooling it down. |
 | | **Solder Wick (Braid)** | [Buy Here 🛒](https://amzn.to/4cuoMm3) | Essential for fixing solder bridges. |
 | | **Helping Hands** | [Buy Here 🛒](https://amzn.to/42eUvmv) | Steady "Third Hand" with magnification. |
-| **📐 Bench & Safety**| **Green Grid Mat** | [Buy Here 🛒](https://amzn.to/3W0lYAn) | Protects desk; aids in component alignment. |
+| **📐 Bench & Art** | **A1 Large Cutting Mat** | [Buy Here 🛒](https://amzn.to/42erB63) | 36"x24" Pro-size desk protection and grid. |
+| | **A2 Medium Cutting Mat** | [Buy Here 🛒](https://amzn.to/4czzUyb) | 18"x24" Standard size—perfect for student desks. |
+| | **Detail Precision Knife** | [Buy Here 🛒](https://amzn.to/4dWvh3I) | For PCB trace cutting and precision art work. |
 | | **Precision Tweezers** | [Buy Here 🛒](https://amzn.to/3X7W6aL) | Mandatory for placing SMD components. |
 | | **Micro Flush Cutters** | [Buy Here 🛒](https://amzn.to/3Z0Z5Xy) | Cleanly trims legs for a professional finish. |
 | **📟 Logic & Test** | **Budget Multimeter** | [Buy Here 🛒](https://amzn.to/41COznj) | Best for basic continuity "Beep" tests. |
